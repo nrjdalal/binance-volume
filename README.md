@@ -6,7 +6,7 @@
 
 On successful implementation, a json response is returned which contains the list of symbols sorted in order of decreasing volume.
 
-> Switch 'usdt' or 'base' as per your liking.
+> Switch 'usdt' or 'btc' in 'quote' or 'base' respectively as per your liking.
 
 #### 1. crypto-currency pairs by their Quote (mainly used) \*
 
